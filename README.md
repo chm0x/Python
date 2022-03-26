@@ -1,2 +1,2 @@
 # Python
-Python Personal Project
+Python Personal and Educational Projects
